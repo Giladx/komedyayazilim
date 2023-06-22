@@ -9,6 +9,9 @@
     "build": "gatsby build",
     "clean": "gatsby clean"
   },
+  "engines": {
+    "node": "16.20.1"
+  },
   "devDependencies": {
     "gatsby": "2.20.24",
     "react": "^16.13.0",
